@@ -2,11 +2,11 @@
 getwd()
 
 #Configurando o diretório de trabalho
-setwd('C:\\Users\\Anderson\\Documents\\UDACITY\\Nanodegree Data Scientist\\Aula_R_Facebook\\Aula_R_Udacity\\')
+setwd('C:\\Users\\Anderson\\Documents\\UDACITY\\Nanodegree Data Scientist\\Aulas de R\\Facebook\\Aula_R_Facebook\\')
 
 #Instalando uma biblioteca
-install.packages('ggplot2')
-install.packages("gridExtra")
+#install.packages('ggplot2')
+#install.packages("gridExtra")
 
 # Carregando uma biblioteca
 library(ggplot2)
